@@ -2,7 +2,7 @@
 React + Typescript + Chakra UI.
 
 Preview:
-![image](https://user-images.githubusercontent.com/59087730/215100596-52a13134-f1f3-479b-9a66-8efaeb366f26.png)
+![image](https://user-images.githubusercontent.com/59087730/215101455-ac738f26-612c-4dac-848b-1c647603db39.png)
 
 
 This project was bootstrapped with
