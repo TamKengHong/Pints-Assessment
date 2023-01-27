@@ -1,3 +1,10 @@
+## Technologies:
+React + Typescript + Chakra UI.
+
+Preview:
+![image](https://user-images.githubusercontent.com/59087730/215100596-52a13134-f1f3-479b-9a66-8efaeb366f26.png)
+
+
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
