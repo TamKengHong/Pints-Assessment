@@ -4,7 +4,7 @@ import { StockList } from "./StockList"
 
 export const App = () => (
   <ChakraProvider>
-    <Center bg="gray.200" h="100vh">
+    <Center bg="blue.100" h="100vh">
       <StockList />
     </Center>
   </ChakraProvider>
