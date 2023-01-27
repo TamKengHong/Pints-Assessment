@@ -9,7 +9,7 @@ const Picture = ({ ticker }: Stock) => {
         <Image
           fit="contain"
           borderRadius='full'
-          boxSize='70px'
+          boxSize='68px'
           src={url}
           alt='Ticker Symbol'
         />
@@ -51,7 +51,7 @@ const PriceInfo = ({ currPrice, absChange, percentChange }: Stock) => {
 
 export const StockCard = (stock: Stock) => {
   return (
-    <Flex bg="white" h="100" borderBottom="1px" borderColor="gray">
+    <Flex bg="white" h="100" borderBottom="2px" borderColor="gray.200">
       <Picture {...stock} />
       <Description {...stock} />
       <PriceInfo {...stock} />
